@@ -1,0 +1,11 @@
+name: LimitArmor
+main: fr.alouchi.Main
+author:
+  - Alouchi
+version: 1.0
+commands:
+  invsee:
+    permission: limitarmor.invsee
+    description: Permet de voir l'inventaire des joueurs.
+  limitarmor:
+    description: Pub.
